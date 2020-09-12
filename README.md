@@ -1,2 +1,2 @@
-# 백준 문제 - C++
-## https://www.acmicpc.net/
+# 백준
+## C++ 문서
